@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-14T00:29:22 IDT" name="Default suite" finished-at="2024-04-14T00:34:14 IDT" duration-ms="292124">
+    <groups>
+    </groups>
+    <test started-at="2024-04-14T00:29:22 IDT" name="Default test" finished-at="2024-04-14T00:34:14 IDT" duration-ms="292124">
+      <class name="Tests.IsstaFlightScenario1">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.IsstaFlightScenario1@76505305]" started-at="2024-04-14T00:29:22 IDT" name="setup" finished-at="2024-04-14T00:29:27 IDT" duration-ms="4366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="simpleTest()[pri:0, instance:Tests.IsstaFlightScenario1@76505305]" started-at="2024-04-14T00:29:27 IDT" name="simpleTest" finished-at="2024-04-14T00:29:27 IDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleTest -->
+        <test-method signature="validateFlightSearchElements()[pri:1, instance:Tests.IsstaFlightScenario1@76505305]" started-at="2024-04-14T00:29:27 IDT" name="validateFlightSearchElements" finished-at="2024-04-14T00:29:52 IDT" duration-ms="25530" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateFlightSearchElements -->
+        <test-method signature="SearchFlightTest1()[pri:2, instance:Tests.IsstaFlightScenario1@76505305]" started-at="2024-04-14T00:29:52 IDT" name="SearchFlightTest1" finished-at="2024-04-14T00:31:11 IDT" duration-ms="79053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchFlightTest1 -->
+        <test-method signature="ValidateTheFirstFlight()[pri:3, instance:Tests.IsstaFlightScenario1@76505305]" started-at="2024-04-14T00:31:11 IDT" name="ValidateTheFirstFlight" finished-at="2024-04-14T00:31:36 IDT" duration-ms="25062" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateTheFirstFlight -->
+        <test-method signature="SelectTheFirstFlight()[pri:4, instance:Tests.IsstaFlightScenario1@76505305]" started-at="2024-04-14T00:31:36 IDT" name="SelectTheFirstFlight" finished-at="2024-04-14T00:32:26 IDT" duration-ms="50144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectTheFirstFlight -->
+        <test-method signature="ValidateCheckoutButton()[pri:5, instance:Tests.IsstaFlightScenario1@76505305]" started-at="2024-04-14T00:32:26 IDT" name="ValidateCheckoutButton" finished-at="2024-04-14T00:33:13 IDT" duration-ms="46583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateCheckoutButton -->
+        <test-method signature="clickCheckout()[pri:6, instance:Tests.IsstaFlightScenario1@76505305]" started-at="2024-04-14T00:33:13 IDT" name="clickCheckout" finished-at="2024-04-14T00:34:13 IDT" duration-ms="60384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCheckout -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Tests.IsstaFlightScenario1@76505305]" started-at="2024-04-14T00:34:13 IDT" name="teardown" finished-at="2024-04-14T00:34:14 IDT" duration-ms="938" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Tests.IsstaFlightScenario1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
